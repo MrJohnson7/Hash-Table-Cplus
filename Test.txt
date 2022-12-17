@@ -1,0 +1,216 @@
+Script started on Sun 29 Nov 2020 12:07:18 PM PST
+]0;johns837@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[?1034h[johns837@empress forHW8]$ logoemacs hw8client.cp/cs/recordhw HW8error.tx[11Pemacs elem.cp[2g++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[38Pemacs hw8client.cpg++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp
+]0;johns837@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[johns837@empress forHW8]$ g++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clogoutemacs hw8client.cp/cs/recordhw HW8error.tx[11Pemacs elem.cp[2g++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[38Pemacs hw8client.cp[4Pslist.cphtable.cpw8client.c[3Ptable.cpw8client.c[5Ptable.cp[2slist.cp[3Pelemslist.llist.@@read-mlscd forHHWProgra[4PforHWls[[[K./a.out
+Please enter 3 digit key to add to table: 
+123
+Please enter name to be associated with this key: 
+Nick
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 12
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+456
+Please enter name to be associated with this key: 
+Johnson
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 12
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+877 Benjam877
+Please enter name to be associated with this key: 
+Benjamin
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 26
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+098
+Please enter name to be associated with this key: 
+Ashley
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 24
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+999
+Please enter name to be associated with this key: 
+Vanessa
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 0
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+327
+Please enter name to be associated with this key: 
+Jan
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 31
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+960
+Please enter name to be associated with this key: 
+Steve
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 35
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+433
+Please enter name to be associated with this key: 
+Matt
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 26
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+510
+Please enter name to be associated with this key: 
+Dale
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 29
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+415
+Please enter name to be associated with this key: 
+Cally
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 8
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+167
+Please enter name to be associated with this key: 
+Jones
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 19
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+172
+Please enter name to be associated with this key: 
+Rocio
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 24
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+199
+Please enter name to be associated with this key: 
+Luis
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 14
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+299
+Please enter name to be associated with this key: 
+Veronica
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 3
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+900
+Please enter name to be associated with this key: 
+Micheal
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 12
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+555
+Please enter name to be associated with this key: 
+Chip
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 0
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+580
+Please enter name to be associated with this key: 
+Bella
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 25
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+531
+Please enter name to be associated with this key: 
+Bobby
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 13
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+701
+Please enter name to be associated with this key: 
+Tucker
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 35
+-----------------------------------------------
+Please enter 3 digit key to add to table: 
+734
+Please enter name to be associated with this key: 
+Danielle
+-----------------------------------------------
+KEY AND NAME ADDED TO TABLE. Slot 31
+-----------------------------------------------
+0:[ 999 Vanessa 555 Chip ]
+1:[  empty  ][ ]
+2:[  empty  ][ ]
+3:[ 299 Veronica ]
+4:[  empty  ][ ]
+5:[  empty  ][ ]
+6:[  empty  ][ ]
+7:[  empty  ][ ]
+8:[ 415 Cally ]
+9:[  empty  ][ ]
+10:[  empty  ][ ]
+11:[  empty  ][ ]
+12:[ 123 Nick 456 Johnson 900 Micheal ]
+13:[ 531 Bobby ]
+14:[ 199 Luis ]
+15:[  empty  ][ ]
+16:[  empty  ][ ]
+17:[  empty  ][ ]
+18:[  empty  ][ ]
+19:[ 167 Jones ]
+20:[  empty  ][ ]
+21:[  empty  ][ ]
+22:[  empty  ][ ]
+23:[  empty  ][ ]
+24:[ 98 Ashley 172 Rocio ]
+25:[ 580 Bella ]
+26:[ 877 Benjamin 433 Matt ]
+27:[  empty  ][ ]
+28:[  empty  ][ ]
+29:[ 510 Dale ]
+30:[  empty  ][ ]
+31:[ 327 Jan 734 Danielle ]
+32:[  empty  ][ ]
+33:[  empty  ][ ]
+34:[  empty  ][ ]
+35:[ 960 Steve 701 Tucker ]
+36:[  empty  ][ ]
+Look for? 900
+900 Micheal
+Look for? 456
+456 Johnson
+Look for? 555
+555 Chip
+Look for? 172
+172 Rocio
+Look for? 433
+433 Matt
+Look for? 734
+734 Danielle
+Look for? 701
+701 Tucker
+Look for? 333
+333 not found
+Look for? 123
+123 Nick
+Look for? 009
+9 not found
+Look for? 432
+432 not found
+Look for? 877
+877 Benjamin
+Look for? 510
+510 Dale
+Look for? 987
+987 not found
+Look for? 299
+299 Veronica
+Look for? -1
+Done. 
+]0;johns837@empress:~/cs311files/CS311Progs/HWPrograms/forHW8[johns837@empress forHW8]$ exit
+exit
+
+Script done on Sun 29 Nov 2020 12:19:18 PM PST
